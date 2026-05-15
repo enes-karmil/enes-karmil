@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="readmegif.gif" alt="Coding Ninja" width="350">
+  <img src="readmegif.gif" alt="Coding Ninja" width="650">
   
   <br/>
   
-  <h2>Marmara Bilgisayar 3. Sınıf</h2>
 </div>
