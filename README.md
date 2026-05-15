@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readmegif.gif" alt="Coding Ninja" width="650">
+  <img src="readmegif.gif" alt="Coding Ninja" width="500">
   
   <br/>
   
